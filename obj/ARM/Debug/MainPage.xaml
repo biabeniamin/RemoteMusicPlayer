@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="MusicAlarm.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MusicAlarm"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <MediaElement x:ConnectionId='1' x:Name="mediaElement" HorizontalAlignment="Left" Height="100" Margin="72,292,0,0" VerticalAlignment="Top" Width="100" AutoPlay="False"/>
+
+
+    </Grid>
+</Page>
+

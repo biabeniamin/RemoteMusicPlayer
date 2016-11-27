@@ -1,0 +1,9 @@
+e:\Beni\Beni\C#\GenerateFilesInfoForMusicAlarm\bin\Debug\GenerateFilesInfoForMusicAlarm.exe.config
+e:\Beni\Beni\C#\GenerateFilesInfoForMusicAlarm\obj\Debug\GenerateFilesInfoForMusicAlarm.csprojResolveAssemblyReference.cache
+e:\Beni\Beni\C#\GenerateFilesInfoForMusicAlarm\obj\Debug\GenerateFilesInfoForMusicAlarm.Form1.resources
+e:\Beni\Beni\C#\GenerateFilesInfoForMusicAlarm\obj\Debug\GenerateFilesInfoForMusicAlarm.Properties.Resources.resources
+e:\Beni\Beni\C#\GenerateFilesInfoForMusicAlarm\obj\Debug\GenerateFilesInfoForMusicAlarm.csproj.GenerateResource.Cache
+e:\Beni\Beni\C#\GenerateFilesInfoForMusicAlarm\bin\Debug\GenerateFilesInfoForMusicAlarm.exe
+e:\Beni\Beni\C#\GenerateFilesInfoForMusicAlarm\bin\Debug\GenerateFilesInfoForMusicAlarm.pdb
+e:\Beni\Beni\C#\GenerateFilesInfoForMusicAlarm\obj\Debug\GenerateFilesInfoForMusicAlarm.exe
+e:\Beni\Beni\C#\GenerateFilesInfoForMusicAlarm\obj\Debug\GenerateFilesInfoForMusicAlarm.pdb
