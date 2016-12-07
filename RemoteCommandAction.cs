@@ -14,6 +14,8 @@ namespace MusicAlarm
         Previous=3,
         VolumeUp=4,
         VolumeDown,
+        PlaySelectedItem,
+        ReloadList,
         Close,
         None
     }

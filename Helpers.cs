@@ -25,6 +25,7 @@ namespace MusicAlarm
         }
         public static TimeSpan GetNextDay(int hour, int minute, int second)
         {
+            return DateTime.Now.AddSeconds(10)-DateTime.Now;
             DateTime today = DateTime.Now;
             if (hour >= today.Hour)
             {
